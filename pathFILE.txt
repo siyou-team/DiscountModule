@@ -1,0 +1,6 @@
+controllers: \siyou\shop_admin\controllers\Discountshop
+css: \siyou\shop_admin\static\src\default\css
+js: \siyou\shop_admin\static\src\default\js\controllers\discountshop
+model: \siyou\shop_admin\models\Discountshop
+view : \siyou\shop_admin\views\default\Discountshop
+
